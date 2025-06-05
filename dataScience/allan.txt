@@ -1,0 +1,3 @@
+Welcome to writing files of allan.
+This is the second line .
+This is the appended line .
