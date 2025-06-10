@@ -25,7 +25,21 @@
     
     Deep learning (CNN) - Image classification
     
+    
 '''
-# 2.Unsupervised learning
+# 2.Unsupervised learning - unlabelled dataset, its mainly about discovering hidden patterns, clusters and structures
+'''
+    Common algorithms in Unsupervised learning
+    1.K-means clustering
+    2.Hierarchical Clustering
+    3.DBSCAN
+    4.PCA
+'''
+# Model selection and validation
+
+
 # 3.Semi supervised learning
 # 4.Reinforcement learning
+
+
+# Machine learning in action 
